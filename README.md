@@ -90,6 +90,7 @@ project/
 │   └── register.ejs
 └── README.md
 ```
+<img width="270" height="633" alt="image" src="https://github.com/user-attachments/assets/1425b5ac-e36a-4af9-968e-907f02d8c432" />
 
 
 ---
